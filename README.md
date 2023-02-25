@@ -48,9 +48,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Dimitry&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
